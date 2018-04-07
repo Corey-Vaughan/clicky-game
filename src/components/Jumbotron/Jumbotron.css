@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url("/images//banner.jpg");
+  background-size: cover;
+  background-position: bottom;
+}
+
+p, h1 {
+  color: gold;
+}

@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "image": "/clicky-game/images//bastion.png"
+    "image": "/images//bastion.png"
   },
   {
     "id": 2,
-    "image": "/clicky-game/images//doomfist.png"
+    "image": "/images//doomfist.png"
   },
   {
     "id": 3,
-    "image": "/clicky-game/images//genji.png"
+    "image": "/images//genji.png"
   },
   {
     "id": 4,
-    "image": "/clicky-game/images//hanzo.png"
+    "image": "/images//hanzo.png"
   },
   {
     "id": 5,
-    "image": "/clicky-game/images//junkrat.png"
+    "image": "/images//junkrat.png"
   },
   {
     "id": 6,
-    "image": "/clicky-game/images//mccree.png"
+    "image": "/images//mccree.png"
   },
   {
     "id": 7,
-    "image": "/clicky-game/images//pharah.png"
+    "image": "/images//pharah.png"
   },
   {
     "id": 8,
-    "image": "/clicky-game/images//reaper.png"
+    "image": "/images//reaper.png"
   },
   {
     "id": 9,
-    "image": "/clicky-game/images//soldier.png"
+    "image": "/images//soldier.png"
   },
   {
     "id": 10,
-    "image": "/clicky-game/images//sombra.png"
+    "image": "/images//sombra.png"
   },
   {
     "id": 11,
-    "image": "/clicky-game/images//torb.png"
+    "image": "/images//torb.png"
   },
   {
     "id": 12,
-    "image": "/clicky-game/images//tracer.png"
+    "image": "/images//tracer.png"
   }
 ]
