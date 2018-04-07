@@ -1,5 +1,5 @@
 import React from "react";
-import "./Navbar.css";
+// import "./Navbar.css";
 
 const Navbar = props => (
   <nav className="navbar fixed-top navbar-dark navbar-custom p-3">

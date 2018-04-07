@@ -1,5 +1,5 @@
 import React from "react";
-import "./Jumbotron.css";
+// import "./Jumbotron.css";
 
 const Jumbotron = props => (
   <div className="jumbotron jumbotron-fluid bg-cover text-white text-center">

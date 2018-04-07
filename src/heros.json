@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "/clicky-game/images//bastion.png"
+  },
+  {
+    "id": 2,
+    "image": "/clicky-game/images//doomfist.png"
+  },
+  {
+    "id": 3,
+    "image": "/clicky-game/images//genji.png"
+  },
+  {
+    "id": 4,
+    "image": "/clicky-game/images//hanzo.png"
+  },
+  {
+    "id": 5,
+    "image": "/clicky-game/images//junkrat.png"
+  },
+  {
+    "id": 6,
+    "image": "/clicky-game/images//mccree.png"
+  },
+  {
+    "id": 7,
+    "image": "/clicky-game/images//pharah.png"
+  },
+  {
+    "id": 8,
+    "image": "/clicky-game/images//reaper.png"
+  },
+  {
+    "id": 9,
+    "image": "/clicky-game/images//soldier.png"
+  },
+  {
+    "id": 10,
+    "image": "/clicky-game/images//sombra.png"
+  },
+  {
+    "id": 11,
+    "image": "/clicky-game/images//torb.png"
+  },
+  {
+    "id": 12,
+    "image": "/clicky-game/images//tracer.png"
+  }
+]
